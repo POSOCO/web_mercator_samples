@@ -1,0 +1,14 @@
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\bin\Debug\MercatorTestingProject.exe.config
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\bin\Debug\MercatorTestingProject.exe
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\bin\Debug\MercatorTestingProject.pdb
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.csprojResolveAssemblyReference.cache
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MainWindow.g.cs
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\App.g.cs
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject_MarkupCompile.cache
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject_MarkupCompile.lref
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MainWindow.baml
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.g.resources
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.Properties.Resources.resources
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.csproj.GenerateResource.Cache
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.exe
+C:\Users\Nagasudhir\Documents\Visual Studio 2015\Projects\MercatorTestingProject\MercatorTestingProject\obj\Debug\MercatorTestingProject.pdb
